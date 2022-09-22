@@ -2,7 +2,7 @@
 
 ### Introduction
 
-Saseul is high-performance blockchain using a proprietary consensus algorithm.
+If Ethereum is a modem, SASEUL is the most complete blockchain with wide LAN speed.
 
 ---
 
