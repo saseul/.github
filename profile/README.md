@@ -1,4 +1,4 @@
-<img src="./main.jpg">
+<img src="../main.jpg">
 
 ## Introduction
 
